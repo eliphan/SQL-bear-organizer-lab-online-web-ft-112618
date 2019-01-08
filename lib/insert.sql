@@ -4,3 +4,5 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (3,"
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1,"Mr.Chocolate",13,"M", "Brown", "sweet", "alive")
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1,"Mr.Chocolate",13,"M", "Brown", "sweet", "alive")
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1,"Mr.Chocolate",13,"M", "Brown", "sweet", "alive")
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1,"Mr.Chocolate",13,"M", "Brown", "sweet", "alive")
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1,"Mr.Chocolate",13,"M", "Brown", "sweet", "alive")
